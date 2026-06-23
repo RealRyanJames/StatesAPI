@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 actix-web = "4"
+mongodb = "3.7.0"
